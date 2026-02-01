@@ -227,9 +227,7 @@ jekyll-archives:
 
 # Plugins 관련 설정을 추가합니다.
 plugins:
-  - jekyll-chrp-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-archives
-  - jekyll-polyglot # 다국어 지원이 필요 없다면 빼도 되지만 처피 기본 사양입니다.
+  - jarchives
