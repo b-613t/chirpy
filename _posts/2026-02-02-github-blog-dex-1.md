@@ -3,6 +3,7 @@ title: "데스크탑 환경 없이 깃허브에 정적 블로그 만들기 1부"
 date: 2026-02-02 00:00:00 +0900
 categories: [생활지식, 윈도우 없이 덱스로 살아보기]
 tags: [깃허브, github page, 정적 블로그 만들기, Jekyll Chirpy, 삼성 dex]
+summary: 삼성 덱스 환경에서 Github Pages에 Jekyll Chirpy 테마를 적용해서 정적 블로그를 생성하는 방법.
 description: "github에 Jekyll Chirpy 테마를 적용해서 영원히 삭제되지 않는 블로그를 만드는 방법입니다. 윈도우의 깃허브 데스크탑 같은 개발 환경 없이 삼성 dex환경에서 순전히 깃허브 웹페이지만 이용해서 만드는 체험담을 담았습니다."
 ---
 굳이 깃허브에 블로그를 만든 사연은 [여기](/posts/i-am-not-a-robot/)에 구구절절하게 적었다.
